@@ -8,3 +8,4 @@ During this tutorial I learnt:
 - How to reference the Vue data within the DOM using the element property (el) and double curly brackets (and expression)
 - The DOM needs to render first then the element data can update the expression
 - Using v-bind to dynamically bind attribute to expression 
+- v-bind can also be shortened to simply ':'
