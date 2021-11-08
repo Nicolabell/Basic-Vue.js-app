@@ -24,6 +24,9 @@
 				<p>{{ description}} </p>
 				<a :href="link" target="_blank">Link</a>
 				<span v-show="onSale">On Sale!</span>
+				<ul>
+					<li v-for="variant in variants" :key="variants.variantID">{{ variant.variantSize }}</li>
+				</ul>
 			</div>
 			
 		</div>

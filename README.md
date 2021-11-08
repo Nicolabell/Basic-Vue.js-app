@@ -10,3 +10,4 @@ During this tutorial I learnt:
 - Using v-bind to dynamically bind attribute to expression 
 - v-bind can also be shortened to simply ':'
 - Using v-if, v-else, v-else-if, v-show to perform conditional rendering
+- Using dot notation to add variant data. Iterating over a variant object with the 'v-for' directive. Using the key attribute to make sure Vue keeps track of the node identity. Creating a list using 'v-for'.
