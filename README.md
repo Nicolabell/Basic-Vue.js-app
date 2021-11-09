@@ -16,4 +16,7 @@ During this tutorial I learnt:
 - Use event handling plus methods to increase or decrease data the data on the instance we are in (this) on click.
 - Use event handling to change image in the DOM on mouseover
 - Class style and binding - update a class based on variant data, for example change the colour of a div based on colour property
+- Computed properties - used to combine properties that might be used together frequently
+
+do rest of challenge 7
 
