@@ -15,4 +15,5 @@ During this tutorial I learnt:
 - Add methods and properties of objects
 - Use event handling plus methods to increase or decrease data the data on the instance we are in (this) on click.
 - Use event handling to change image in the DOM on mouseover
+- Class style and binding - update a class based on variant data, for example change the colour of a div based on colour property
 
