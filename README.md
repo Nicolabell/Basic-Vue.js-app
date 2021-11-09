@@ -11,3 +11,7 @@ During this tutorial I learnt:
 - v-bind can also be shortened to simply ':'
 - Using v-if, v-else, v-else-if, v-show to perform conditional rendering
 - Using dot notation to add variant data. Iterating over a variant object with the 'v-for' directive. Using the key attribute to make sure Vue keeps track of the node identity. Creating a list using 'v-for'.
+- Use v-on as an event listener (or @mouse for mouse over)
+- Add methods and properties of objects
+- Use event handling plus methods to increase or decrease data the data on the instance we are in (this) on click.
+

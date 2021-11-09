@@ -27,6 +27,9 @@
 				<ul>
 					<li v-for="variant in variants" :key="variants.variantID">{{ variant.variantSize }}</li>
 				</ul>
+				<button v-on:click="addToCart">Add to Cart</button>
+				<div class="cart">
+					<p>Cart ({{cart}})</p>
 			</div>
 			
 		</div>

@@ -1,0 +1,35 @@
+[33mcommit 7999f8bde8a4a176566ab68abdda454bdb34c9b4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mattributeChallenge[m[33m)[m
+Author: Nicola <nicolar.bell@gmail.com>
+Date:   Mon Nov 8 18:45:22 2021 +0000
+
+    Use : to bind atrribute to link
+
+[33mcommit 0000e7ee36d534675c55d04bbd1baef952aa69d0[m
+Author: Nicola <nicolar.bell@gmail.com>
+Date:   Sat Nov 6 17:21:11 2021 +0000
+
+    Using v-bind to dynamically bind src attribute to image expression
+
+[33mcommit e9d57a13cd9b18da3a2a4564be0ae6e5751a754a[m
+Author: Nicola <nicolar.bell@gmail.com>
+Date:   Sat Nov 6 16:39:51 2021 +0000
+
+    DOM is changed by Vue data
+
+[33mcommit aff392a39375c261e017feb8575cec1241320837[m
+Author: Nicola <nicolar.bell@gmail.com>
+Date:   Sat Nov 6 16:05:36 2021 +0000
+
+    index.html added with link to Vue instance
+
+[33mcommit 1acb7df0653293c02b6cafb3bb22c6aa3c06058d[m
+Author: Nicola Bell <nicolar.bell@gmail.com>
+Date:   Sat Nov 6 15:54:50 2021 +0000
+
+    Configure SAST in `.gitlab-ci.yml`, creating this file if it does not already exist
+
+[33mcommit 2f8a942a4087ea964cf77741246ca22a14152807[m
+Author: Nicola Bell <nicolar.bell@gmail.com>
+Date:   Sat Nov 6 15:54:50 2021 +0000
+
+    Initial commit
