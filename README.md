@@ -14,4 +14,5 @@ During this tutorial I learnt:
 - Use v-on as an event listener (or @mouse for mouse over)
 - Add methods and properties of objects
 - Use event handling plus methods to increase or decrease data the data on the instance we are in (this) on click.
+- Use event handling to change image in the DOM on mouseover
 

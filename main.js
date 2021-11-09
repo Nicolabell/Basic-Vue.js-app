@@ -10,12 +10,14 @@ var app = new Vue ({
 			{
 				variantID: 1234,
 				variantColour: "green",
-				variantSize: 10
+				variantSize: 10,
+				variantImage: "https://media2.newlookassets.com/i/newlook/803285638/mens/clothing/underwear-and-socks/dark-green-smile-embroidered-socks.jpg?strip=true&qlt=80&w=720"
 			},
 			{ 		
 				variantID: 1234,
-				variantColour: "green",
-				variantSize: 12
+				variantColour: "blue",
+				variantSize: 12,
+				variantImage: "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/439665/item/goods_93_439665.jpg?width=592&impolicy=quality_70&imformat=chrome"
 			}
 		],
 		cart: 0
@@ -23,6 +25,9 @@ var app = new Vue ({
 	methods: {
 		addToCart: function () {
 			this.cart += 1
+		},
+		updateProduct: function (variantImage) {
+			this.image = variantImage
 		}
 	}
 })
